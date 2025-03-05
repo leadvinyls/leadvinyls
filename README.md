@@ -8,35 +8,35 @@
 
 ## 🛠 **Technologies & Tools**  
 
-### 📜 **Programming Languages**  
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="25" style="vertical-align: middle; margin-right: 5px;"> TypeScript</span>  
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" style="vertical-align: middle; margin-right: 5px;"> JavaScript</span>  
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="25" style="vertical-align: middle; margin-right: 5px;"> PHP</span>  
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="25" style="vertical-align: middle; margin-right: 5px;"> C++</span>  
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="25" style="vertical-align: middle; margin-right: 5px;"> HTML5</span>  
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="25" style="vertical-align: middle; margin-right: 5px;"> CSS3</span>  
+### 📜 Programming Languages  
+- ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) **TypeScript**  
+- ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) **JavaScript**  
+- ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg) **PHP**  
+- ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) **C++**  
+- ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) **HTML5**  
+- ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) **CSS3**  
 
-### ⚡ **Frameworks & Libraries**  
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="25" style="vertical-align: middle; margin-right: 5px;"> React</span>  
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="25" style="vertical-align: middle; margin-right: 5px;"> Next.js</span>  
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="ASP.NET" width="25" style="vertical-align: middle; margin-right: 5px;"> ASP.NET</span>  
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="25" style="vertical-align: middle; margin-right: 5px;"> Tailwind CSS</span>  
+### ⚡ Frameworks & Libraries  
+- ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) **React**  
+- ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg) **Next.js**  
+- ![ASP.NET](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg) **ASP.NET**  
+- ![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg) **Tailwind CSS**  
 
-### 🛠 **Tools & Platforms**  
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="25" style="vertical-align: middle; margin-right: 5px;"> PostgreSQL</span>  
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="25" style="vertical-align: middle; margin-right: 5px;"> GitHub</span>  
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="25" style="vertical-align: middle; margin-right: 5px;"> GitHub Actions</span>  
+### 🛠 Tools & Platforms  
+- ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) **PostgreSQL**  
+- ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) **GitHub**  
+- ![GitHub Actions](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg) **GitHub Actions**  
 
 ---
 
-## 📌 **About Me**  
+## 📌 About Me  
 - 🔍 I'm motivated by doing things **the right way**, focusing on the end user and the next developer who will maintain the code.  
 - 🎨 I enjoy combining **design and code** to create smooth and intuitive experiences.  
 - 📚 Always learning and exploring new technologies to improve my skills.  
 
 ---
 
-## 📫 **Contact Me**  
+## 📫 Contact Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leadvinyls)  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@leadvinyls)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://leadvinyls.dev)  

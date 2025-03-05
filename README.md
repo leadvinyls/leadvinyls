@@ -2,7 +2,7 @@
 
 🚀 **Full Stack Developer & UI/UX Designer**  
 💻 Passionate about web development and graphic design  
-📍 Based in Cerdanyola del Vallès, Barcelona, Spain  
+📍 Based in Barcelona, Spain  
 
 ---
 

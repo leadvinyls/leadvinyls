@@ -1,5 +1,5 @@
 <div style="font-family: monospace;">
-# 👋 Hi! I'm Dylan  
+#👋 Hi! I'm Dylan  
 
 🚀 **Full Stack Developer & UI/UX Designer**  
 💻 Passionate about web development and graphic design  

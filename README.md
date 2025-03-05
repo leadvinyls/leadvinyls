@@ -1,38 +1,46 @@
-# `👋 Hi! I'm Dylan`  
+# 👋 Hi! I'm Dylan  
 
-🚀 **`Full Stack Developer & UI/UX Designer`**  
-💻 `Passionate about web development and graphic design`  
-📍 `Based in Barcelona, Spain`  
-
----
-
-### 🛠 **`Technologies & Tools`**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+🚀 **Full Stack Developer & UI/UX Designer**  
+💻 Passionate about web development and graphic design  
+📍 Based in Barcelona, Spain  
 
 ---
 
-### 📌 **`About Me`**  
-- 🔍 `I'm motivated by doing things the right way, focusing on the end user and the next developer who will maintain the code.`  
-- 🎨 `I enjoy combining design and code to create smooth and intuitive experiences.`  
-- 📚 `Always learning and exploring new technologies to improve my skills.`  
+## 🛠 **Technologies & Tools**  
+
+### 📜 **Programming Languages**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30"/> TypeScript  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30"/> JavaScript  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="30"/> PHP  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30"/> C++  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30"/> HTML5  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30"/> CSS3  
+
+### ⚡ **Frameworks & Libraries**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30"/> React  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30"/> Next.js  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="ASP.NET" width="30"/> ASP.NET  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="30"/> Tailwind CSS  
+
+### 🛠 **Tools & Platforms**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30"/> PostgreSQL  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30"/> GitHub  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="30"/> GitHub Actions  
 
 ---
 
-### 📫 **`Contact Me`**  
+## 📌 **About Me**  
+- 🔍 I'm motivated by doing things **the right way**, focusing on the end user and the next developer who will maintain the code.  
+- 🎨 I enjoy combining **design and code** to create smooth and intuitive experiences.  
+- 📚 Always learning and exploring new technologies to improve my skills.  
+
+---
+
+## 📫 **Contact Me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leadvinyls)  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@leadvinyls)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://leadvinyls.dev)  
 
 ---
 
-⭐️ _`Thanks for visiting my profile!`_
+⭐️ _Thanks for visiting my profile!_

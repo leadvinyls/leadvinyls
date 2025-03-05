@@ -1,4 +1,5 @@
 <div style="font-family: monospace;">
+
 # 👋 Hi! I'm Dylan  
 
 🚀 **Full Stack Developer & UI/UX Designer**  
@@ -37,4 +38,5 @@
 ---
 
 ⭐️ _Thanks for visiting my profile!_  
+
 </div>

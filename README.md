@@ -1,14 +1,12 @@
-<div style="font-family: monospace;">
+# `👋 Hi! I'm Dylan`  
 
-# 👋 Hi! I'm Dylan  
-
-🚀 **Full Stack Developer & UI/UX Designer**  
-💻 Passionate about web development and graphic design  
-📍 Based in Barcelona, Spain  
+🚀 **`Full Stack Developer & UI/UX Designer`**  
+💻 `Passionate about web development and graphic design`  
+📍 `Based in Barcelona, Spain`  
 
 ---
 
-### 🛠 **Technologies & Tools**  
+### 🛠 **`Technologies & Tools`**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -23,20 +21,18 @@
 
 ---
 
-### 📌 **About Me**  
-- 🔍 I'm motivated by doing things **the right way**, focusing on the end user and the next developer who will maintain the code.  
-- 🎨 I enjoy combining **design and code** to create smooth and intuitive experiences.  
-- 📚 Always learning and exploring new technologies to improve my skills.  
+### 📌 **`About Me`**  
+- 🔍 `I'm motivated by doing things the right way, focusing on the end user and the next developer who will maintain the code.`  
+- 🎨 `I enjoy combining design and code to create smooth and intuitive experiences.`  
+- 📚 `Always learning and exploring new technologies to improve my skills.`  
 
 ---
 
-### 📫 **Contact Me**  
+### 📫 **`Contact Me`**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leadvinyls)  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@leadvinyls)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://leadvinyls.dev)  
 
 ---
 
-⭐️ _Thanks for visiting my profile!_  
-
-</div>
+⭐️ _`Thanks for visiting my profile!`_

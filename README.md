@@ -28,11 +28,6 @@
 
 ---
 
-### 📊 **GitHub Stats**  
-![Dylan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leadvinyls&show_icons=true&theme=radical&hide_border=true)
-
----
-
 ### 📫 **Contact Me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leadvinyls)  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@leadvinyls)  

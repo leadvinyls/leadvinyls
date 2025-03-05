@@ -31,7 +31,7 @@
 ### 📫 **Contact Me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leadvinyls)  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@leadvinyls)  
-[![🌐 Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge)](https://leadvinyls.dev)  
+[![Portfolio](https://img.shields.io/badge/20Portfolio-000000?style=for-the-badge)](https://leadvinyls.dev)  
 
 ---
 

@@ -6,21 +6,23 @@
 
 ---
 
-## 🛠 Technologies & Tools  
+## 🚀 Technologies & Tools  
 
-### 📜 Languages  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)   ![JavaScript](https://img.shields.io/badge/javascript-0d1117?logo=javascript&logoColor=white)  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+### 🖥️ Programming Languages  
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-000?style=flat&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-000?style=flat&logo=csharp&logoColor=white)  
 
-### ⚡ Frameworks & Libraries  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)  
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+### ⚡ Frameworks  
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js&logoColor=white) ![ASP.NET](https://img.shields.io/badge/-ASP.NET-000?style=flat&logo=dotnet&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-000?style=flat&logo=tailwind-css&logoColor=white)  
 
-### 🛠 Tools & Platforms  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)  
+### 🗄️ Databases  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql&logoColor=white)  
+
+### 🛠️ Tools  
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-000?style=flat&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker&logoColor=white)  
+
+### 🌐 Platforms  
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel&logoColor=white)  
+
 
 ---
 

@@ -1,5 +1,3 @@
-![test](https://sushiaki.leadvinyls.dev/react)
-
 # 👋 Hi! I'm Dylan  
 
 🚀 **Full Stack Developer & UI/UX Designer**  

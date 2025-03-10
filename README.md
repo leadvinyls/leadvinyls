@@ -1,3 +1,4 @@
+![TypeScript](https://insigne.dev/test)
 # 👋 Hi! I'm Dylan  
 
 🚀 **Full Stack Developer & UI/UX Designer**  

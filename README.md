@@ -9,7 +9,7 @@
 ## 🚀 Technologies & Tools  
 
 ### 🖥️ Programming Languages  
-![TypeScript](https://insigne.dev/badge?id=typescript) ![JavaScript](https://insigne.dev/badge?id=javascript) ![HTML5](https://insigne.dev/badge?id=html) ![CSS3](https://insigne.dev/badge?id=css) ![PHP](https://insigne.dev/badge?id=php) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://insigne.dev/badge?id=typescript) ![JavaScript](https://insigne.dev/badge?id=javascript) ![HTML5](https://insigne.dev/badge?id=html) ![CSS3](https://insigne.dev/badge?id=css) ![PHP](https://insigne.dev/badge?id=php) ![C++](https://insigne.dev/badge?id=cplusplus) ![C#](https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white)
 
 ### ⚡ Frameworks  
 ![React](https://insigne.dev/badge?id=react) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)

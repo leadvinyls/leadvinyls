@@ -12,7 +12,7 @@ Passionate about web development and graphic design
 ![TypeScript](https://insigne.dev/badge?id=typescript) ![JavaScript](https://insigne.dev/badge?id=javascript) ![HTML5](https://insigne.dev/badge?id=html&font=sen) ![CSS3](https://insigne.dev/badge?id=css) ![PHP](https://insigne.dev/badge?id=php) ![C++](https://insigne.dev/badge?id=cplusplus) ![C](https://insigne.dev/badge?id=c) ![C#](https://insigne.dev/badge?id=csharp&font=sen)
 
 ### Frameworks  
-![React](https://insigne.dev/badge?id=react&font=sen) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://insigne.dev/badge?id=react&font=sen) ![Next.js](https://insigne.dev/badge?id=nextjs) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Databases  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
